@@ -5,7 +5,7 @@ Olá, seja bem vindo(a) ao meu GitHub!
 
 Muito prazer, eu sou a Mel. Atualmente, curso o Técnico em Desenvolvimento de Sistemas no SENAI Conectividade, na Vila Mariana (SP).
 
-Estou no início da minha jornada na área de tecnologia e utilizo este perfil para registrar minha evolução, compartilhar projetos e colocar em prática os conhecimentos que venho adquirindo em programação e desenvolvimento de software.
+Estou no início da minha jornada na tecnologia e utilizo este perfil para registrar minha evolução, compartilhar projetos e colocar em prática os conhecimentos que venho adquirindo em programação e desenvolvimento de software.
 
 Aqui você encontrará exercícios, projetos de estudo e desafios que fazem parte do meu aprendizado contínuo.
 
