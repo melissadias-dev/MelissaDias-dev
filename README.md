@@ -1,4 +1,4 @@
-# Melissa Dias 👩🏻‍💻
+# Melissa Dias 
 **`Desenvolvedora em Formação`**
 
 Olá, seja bem vindo(a) ao meu GitHub!
